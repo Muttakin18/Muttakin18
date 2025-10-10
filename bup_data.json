@@ -1,0 +1,74 @@
+{
+  "university_name": "Bangladesh University of Professionals",
+  "abbreviation": "BUP",
+  "established": "2008",
+  "location": "Mirpur Cantonment, Dhaka, Bangladesh",
+  "motto": "Excellence through knowledge",
+  "type": "Public University run by the Bangladesh Armed Forces",
+  "vice_chancellor": "Major General Md Mahbub-ul Alam, ndc, afwc, psc, MPhil, PhD",
+  "faculties": {
+    "FSS": {
+      "name": "Faculty of Security and Strategic Studies",
+      "departments": [
+        "Department of International Relations",
+        "Department of Peace, Conflict and Human Rights",
+        "Department of Law"
+      ]
+    },
+    "FASS": {
+      "name": "Faculty of Arts and Social Sciences",
+      "departments": [
+        "Department of English",
+        "Department of Sociology",
+        "Department of Economics",
+        "Department of Development Studies"
+      ]
+    },
+    "FBS": {
+      "name": "Faculty of Business Studies",
+      "departments": [
+        "Department of Management Studies",
+        "Department of Marketing",
+        "Department of Accounting and Information Systems",
+        "Department of Finance and Banking"
+      ]
+    },
+    "FE": {
+      "name": "Faculty of Engineering",
+      "departments": [
+        "Department of Computer Science and Engineering",
+        "Department of Information and Communication Technology",
+        "Department of Environmental Science"
+      ]
+    },
+    "FMS": {
+      "name": "Faculty of Medical Studies",
+      "departments": [
+        "Armed Forces Medical College (AFMC)",
+        "Army Medical Colleges (AMC)"
+      ]
+    }
+  },
+  "admission": {
+    "requirements": "Applicants must have a minimum GPA in both SSC and HSC exams as per BUP admission circular.",
+    "procedure": "Online application through BUP admission portal. Eligible candidates appear for written exam and viva.",
+    "test_format": "MCQ-based written exam covering English, General Knowledge, and Faculty-specific topics."
+  },
+  "facilities": {
+    "library": "Modern central library with digital resources and study zones.",
+    "hostel": "Separate dormitories for male and female students.",
+    "cafeteria": "Clean and affordable food services inside the campus.",
+    "clubs": [
+      "BUP Debate Club",
+      "BUP Business and Communication Club",
+      "BUP IT Society",
+      "BUP Cultural Forum",
+      "BUP Research Society"
+    ]
+  },
+  "contact": {
+    "address": "Bangladesh University of Professionals, Mirpur Cantonment, Dhaka-1216",
+    "email": "info@bup.edu.bd",
+    "website": "https://www.bup.edu.bd"
+  }
+}
